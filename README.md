@@ -10,21 +10,21 @@
 
 ## Description
 
-This open-source university database project aims to provide a database solution that meets the fundamental needs of universities. It is designed to assist universities in managing their students, faculty members, course records, exams, and more.
+This open-source hotel database project aims to provide a database solution that meets the fundamental needs of hotels. It is designed to assist hotels in managing their guests, staff, room records, reservations, and more.
 
-By using this project, universities and educational institutions can create a database solution tailored to their needs or enhance their existing systems. The project is open-source, so it is always open to community contributions. You can customize and improve it according to your own requirements.
+With this project, hotels and lodging businesses can create a database solution tailored to their needs or enhance their existing systems. The project is open-source, so it is always open to community contributions. You can customize and improve it according to your own requirements.
 
 ### Project Features:
 
-**Student Management:** You can create, update, and delete student records and easily access student information.
+**Guest Management:** You can create, update, and delete guest records and easily access guest information.
 
-**Faculty Member Management:** You can create and update profiles of faculty members working at the university.
+**Staff Management:** You can create and update profiles of staff members working at the hotel.
 
-**Course Record Tracking:** You can create course records for students and match them with relevant faculty members.
+**Room Record Tracking:** You can create room records for guests and match them with relevant staff members.
 
-**Exam Records:** It provides a system to store and update student exam records.
+**Reservation Records:** You can record and update guest reservations.
 
-**Reporting:** You can generate and analyze various reports on university data.
+**Reporting:** You can generate and analyze various reports on hotel data.
 
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
@@ -51,12 +51,11 @@ To contribute to the project or learn more, visit the GitHub repository. Take a 
 
 ### To Do List:
 
-- [x] Enrollments Table
-- [ ] Grades Table
-- [ ] Classroom Table
-- [ ] Academic Advisors Table
-- [ ] Staff Table
-- [ ] Events Table
+- [x] Guest Table
+- [ ] Check-ins Table
+- [ ] Check-outs Table
+- [ ] Invoices Table
+- [ ] Amenities Table
 
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
