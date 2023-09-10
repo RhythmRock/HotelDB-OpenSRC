@@ -2,7 +2,7 @@
 
 <!-- KAPAK FOTOĞRAFI -->
 <div style="text-align:center;">
-    <img src="https://raw.githubusercontent.com/beydah/HotelDB-OpenSRC/main/ASSETS/Hotel_DB_Diagram.png" alt="DB Diagram Wallpaper">
+    <img src="https://raw.githubusercontent.com/beydah/HotelDB-OpenSRC/main/ASSET/Hotel_DB_Diagram.png" alt="DB Diagram Wallpaper">
 </div>
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
